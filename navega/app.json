@@ -1,0 +1,17 @@
+{
+  "name": "navega",
+  "displayName": "navega",
+  "expo": {
+    "name": "navega",
+    "slug": "navega",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

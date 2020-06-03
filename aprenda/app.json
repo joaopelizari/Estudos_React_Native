@@ -1,0 +1,17 @@
+{
+  "name": "aprenda",
+  "displayName": "aprenda",
+  "expo": {
+    "name": "aprenda",
+    "slug": "aprenda",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
